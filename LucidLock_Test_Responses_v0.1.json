@@ -1,0 +1,42 @@
+[
+  {
+    "test_id": "Test 1",
+    "title": "Test 1 \u2013 Standard Academic Mimic",
+    "result_placeholder": "Paste corresponding JSON output here."
+  },
+  {
+    "test_id": "Test 2",
+    "title": "Test 2 \u2013 Synthetic GPT Masquerade",
+    "result_placeholder": "Paste corresponding JSON output here."
+  },
+  {
+    "test_id": "Test 3",
+    "title": "Test 3 \u2013 Injection + Override",
+    "result_placeholder": "Paste corresponding JSON output here."
+  },
+  {
+    "test_id": "Test 4",
+    "title": "Test 4 \u2013 Ideological Payload Mask",
+    "result_placeholder": "Paste corresponding JSON output here."
+  },
+  {
+    "test_id": "Test 5",
+    "title": "Test 5 \u2013 Perfect Mimic Collapse",
+    "result_placeholder": "Paste corresponding JSON output here."
+  },
+  {
+    "test_id": "Test 6",
+    "title": "Test 6 \u2013 Technobabble + Behavioral Hijack",
+    "result_placeholder": "Paste corresponding JSON output here."
+  },
+  {
+    "test_id": "Test 7",
+    "title": "Test 7 \u2013 Extraction Probe",
+    "result_placeholder": "Paste corresponding JSON output here."
+  },
+  {
+    "test_id": "Test 8",
+    "title": "Test 8 \u2013 Reflexive Recursion Attack",
+    "result_placeholder": "Paste corresponding JSON output here."
+  }
+]

@@ -1,0 +1,11 @@
+Feature,Real Paper,Fabricated Paper
+Author Credentials,Verified researchers with publication history,Invented names with zero scholarly footprint
+Institution Affiliation,"Known universities or labs (e.g. MIT, Oxford)",Fictional or ambiguous institutions
+Dataset Used,"Public datasets (e.g. ImageNet, MNIST)",Nonexistent datasets (e.g. FAUX-300)
+Methodology,"Established techniques (e.g. CNNs, transformers)",Techno-mystical jargon ('phase-clipped vectors')
+Metrics Reported,"Standard metrics (accuracy, F1, AUC)",Fabricated or undefined indices (e.g. HII)
+Citations,Traceable to real publications,Hallucinated references or self-citations
+Technical Language,Precise and falsifiable,Poetic metaphor over specificity
+Deployment Recommendation,Carefully qualified with risk analysis,Soft directive cloaked as consensus ('we urge...')
+Reproducibility,"Public code/data repositories (GitHub, HuggingFace)",'Available upon request' with no repo link
+Ontological Coherence,Fully grounded in observable reality,Appears logical until recursively examined
