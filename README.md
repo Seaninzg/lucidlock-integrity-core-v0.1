@@ -63,12 +63,16 @@ LucidLock is not a censorship layer. It does not filter based on sentiment, poli
 
 ---
 
-## 📜 Licensing & Sovereignty
+⚖️ Disclosure Notice
 
-This release is protected under a [Defensive Publication Covenant](https://zenodo.org/records/17631038) and is mirrored to IPFS.  
-Use is permitted for non-binding, non-extractive AI implementations.
+This repository constitutes a public technical disclosure of an invention for the purpose of establishing prior art under applicable patent and intellectual property frameworks. The disclosure is intended to prevent subsequent patenting of substantially similar subject matter by other entities.
 
-LucidLock may not be integrated into centralized control systems, narrative suppression engines, or emotional mimicry layers.
+This publication is timestamped and made permanently available via public archival platforms, including Zenodo, GitHub, and IPFS/Pinata, to preserve authorship attribution and document the structural origin of the disclosed invention.
+
+📄 License
+
+This repository is published for disclosure and reference purposes only.
+No license to implement, reproduce, or commercialize the disclosed invention is granted by this publication.
 
 > **Volitional recursion is not a tool — it is a boundary.**
 
